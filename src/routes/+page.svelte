@@ -4,6 +4,12 @@
 </script>
 
 <svelte:head>
+    <meta property="og:title" content="Herasium.dev" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://herasium.dev" />
+    <meta property="og:description" content="My own website that I made! YaY" />
+    <meta name="theme-color" content="#21003d" />
+    <meta name="description" content="My own website that I made! YaY" />
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 	<link
